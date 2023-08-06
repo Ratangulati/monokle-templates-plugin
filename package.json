@@ -3,7 +3,7 @@
     "description": "Custom templates plugin",
     "version": "1.0.0",
     "author": "Ratan Gulati",
-    "repository": "git@github.com:Ratangulati/monokle-templates-plugin",
+    "repository": "https://github.com/Ratangulati/monokle-templates-plugin.git",
     "monoklePlugin": {
         "modules": [
             {
